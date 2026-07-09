@@ -1,0 +1,96 @@
+{
+  "brand": {
+    "name": "Framed by RK",
+    "tagline": "Turning Moments Into Heirlooms",
+    "orderLink": "https://docs.google.com/forms/d/e/1FAIpQLSeqADGhaelWzEDR5zpgFZEbZioT5aXwkIz_0IpKOviBLIKJjQ/viewform",
+    "instagram": "@framedbyrk",
+    "tiktok": "@framedbyrk",
+    "email": "hello@framedbyrk.com"
+  },
+  "hero": {
+    "eyebrow": "Bespoke Frames & Keepsakes",
+    "title": "Turning Moments Into Heirlooms",
+    "subtitle": "Handcrafted frames that preserve the people, milestones, faith moments and memories that matter most.",
+    "button": "Start Your Frame"
+  },
+  "intro": {
+    "script": "Made by hand, made to be kept.",
+    "body": "Framed by RK turns your favourite photos, quotes, dates, certificates and memories into personalised frames that feel thoughtful, beautiful and gift-ready."
+  },
+  "products": [
+    {
+      "title": "Graduation Frame",
+      "category": "Graduation",
+      "price": "From \u00a335",
+      "image": "black-graduation-frame.jpg",
+      "description": "A personalised graduation keepsake with photos, dates, school colours and custom details."
+    },
+    {
+      "title": "Vision Board",
+      "category": "Vision Board",
+      "price": "From \u00a330",
+      "image": "vision-board-wall.png",
+      "description": "A framed reminder of your goals, faith, prayers and the future you are building."
+    },
+    {
+      "title": "Friendship Frame",
+      "category": "Friendship",
+      "price": "From \u00a328",
+      "image": "friendship-collage.jpg",
+      "description": "A sentimental photo collage for best friends, sisters, birthdays and special seasons."
+    },
+    {
+      "title": "Faith Frame",
+      "category": "Faith",
+      "price": "From \u00a330",
+      "image": "faith-vision-frame.jpg",
+      "description": "Scripture, prayers, affirmations and memories arranged into a beautiful keepsake."
+    },
+    {
+      "title": "Graduation Keepsake",
+      "category": "Graduation",
+      "price": "Custom quote",
+      "image": "graduation-keepsake.jpg",
+      "description": "A statement frame with photos, ceremony details, dates and gold personalisation."
+    },
+    {
+      "title": "Custom Memory Frame",
+      "category": "Custom",
+      "price": "Custom quote",
+      "image": "graduation-frame-wall.png",
+      "description": "Tell us the occasion and we will design a one-of-one frame around your story."
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "It was so personal and beautifully made. The perfect graduation gift.",
+      "name": "Customer"
+    },
+    {
+      "quote": "The details made it feel so thoughtful. I cried when I opened it.",
+      "name": "Customer"
+    },
+    {
+      "quote": "Such a beautiful way to keep memories instead of leaving them on my phone.",
+      "name": "Customer"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How do I order?",
+      "answer": "Click Start Your Frame and complete the order form with your photos, theme and details."
+    },
+    {
+      "question": "Can I choose colours?",
+      "answer": "Yes. You can choose frame colour, text colour, theme, stickers and personal details."
+    },
+    {
+      "question": "How long does it take?",
+      "answer": "Turnaround depends on the size and design, but you will receive a timeline after your request."
+    },
+    {
+      "question": "Can I request something custom?",
+      "answer": "Yes. Custom ideas are welcome. Share the story and we will help design the frame."
+    }
+  ]
+}
